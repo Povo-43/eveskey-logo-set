@@ -32,9 +32,13 @@ v3.3
 
 ## Change log
 v1.1 ./icon-only/evex-ink.svgの作成。
+
 v2.1 icon-only全体の作成。
+
 v3.1 full/text-onlyの追加。README.md整備
+
 v3.2 README.mdの整備。改変前提に書き換える。README.mdのみ変更。
+
 v3.3 ライセンスを改変・継承前提の内容に更新。
 
 ## Thanks
